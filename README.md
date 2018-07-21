@@ -6,7 +6,7 @@ Run
 ------------
 run the command in the cmd
 ```CMD
-.\builder\build_and_run.cmd
+start.bat
 ```
 
 Requirements
