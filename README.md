@@ -13,3 +13,5 @@ Requirements
 
 - JDK
 - Set java bin folder in system environment path
+
+![example-running](https://github.com/hiral2/3d-universe/blob/master/example.gif)
